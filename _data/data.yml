@@ -44,19 +44,10 @@ sidebar:
       - item: Cooking
         link:
 
-Education:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Washington University in St. Louis
+      time: 01/2020-Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,9 +56,32 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: M.S. in Microelectronics System Design
+      university: University of Southampton 
+      time: 09/2011-12/2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+      - degree: B.E. in Electronic Engineering
+      university: University of Birmingham 
+      time: 09/2010-07/2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
+      - degree: B.E. in Electronic Science and Engineering
+      university: Huazhong University of Science & Technology
+      time:  09/2007-07/2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -168,23 +182,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: C & C++
+        level: 80%
 
-      - name: HTML5 & CSS
+      - name: Verilog & System Verilog
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Perl
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Matlab
+        level: 80%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
